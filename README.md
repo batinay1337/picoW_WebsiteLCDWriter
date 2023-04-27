@@ -26,7 +26,7 @@ This project demonstrates how to create a simple WiFi-connected web server using
 
 ## Circuit Diagram
 
-![Circuit Diagram](https://github.com/batinay1337/picoW_WebsiteLCDWriter/blob/main/raspberry-pi-pico-w-website.jpeg)
+![Circuit Diagram](https://github.com/batinay1337/picoW_WebsiteLCDWriter/blob/main/circuitdiagram/raspberry-pi-pico-w-website.jpg)
 
 ## Acknowledgments
 
